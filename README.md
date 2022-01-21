@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leandro Augusto
 
 
-- 🎓 Estudante de Engenharia de Computação e tenho interesse em trabalhar em desenvolvimento web e mobile
+- 🎓 Estudante de Engenharia de Computação, tenho interesse em trabalhar na área de desenvolvimento web e mobile
 - 🔭 Atualmente a linguagem que mais uso/estudo é o JavaScript
 - 🌱 Estudando os frameworks Node e React
 - 🎮 No meu tempo vago gosto de jogar action rpgs, j-rpgs, metroidvanias e alguns games indies (Chrono Trigger, Final Fantasy, Skyrim, Dark Souls, Castlevania etc)
