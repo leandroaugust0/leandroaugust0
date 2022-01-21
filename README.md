@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leandro Augusto
 
 
-
+- 🎓 Estudante de Engenharia de Computação
 - 🔭 Atualmente a linguagem que mais uso é o JavaScript
 - 🌱 Estudando os frameworks Node e React
 
