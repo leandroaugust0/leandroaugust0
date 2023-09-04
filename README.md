@@ -2,9 +2,9 @@
 
 
 - 🎓 Engenheiro de Computação
-- 🔭 Atualmente, a linguagem que mais uso é o JavaScript
+- 🔭 As linguagens de programação que tenho mais interesse são javascript, java e python
 - 🌱 No momento estou focando em ter uma carreira na área de back-end
-- 🎮 No meu tempo vago gosto de jogar video game, ler quadrinhos e livros
+- 🎮 Em meu tempo vago gosto de jogar video game, ler quadrinhos e livros
 
 <div align="center">
   <a href="https://github.com/leandroaugust0">
