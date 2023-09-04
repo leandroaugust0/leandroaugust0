@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Leandro Augusto
 
 
-- 🎓 Estudante de Engenharia de Computação, tenho interesse em trabalhar na área de desenvolvimento web e mobile
-- 🔭 Atualmente a linguagem que mais uso/estudo é o JavaScript
-- 🌱 Estudando os frameworks Node e React através da Rocketseat e suas trilhas ignite
-- 🎮 No meu tempo vago gosto de jogar action rpgs, j-rpgs, metroidvanias e alguns games indies (Chrono Trigger, Final Fantasy, Skyrim, Dark Souls, Castlevania etc)
+- 🎓 Engenheiro de Computação
+- 🔭 Atualmente, a linguagem que mais uso é o JavaScript
+- 🌱 No momento estou focando em ter uma carreira na área de back-end
+- 🎮 No meu tempo vago gosto de jogar video game, ler quadrinhos e livros
 
 <div align="center">
   <a href="https://github.com/leandroaugust0">
