@@ -3,8 +3,7 @@
 
 - 🎓 Engenheiro de Computação
 - 🔭 As linguagens de programação que tenho mais interesse são javascript, java e python
-- 🌱 Atualmente estou focado em desenvolver minhas hard skills na intenção de seguir uma carreira na área de back-end
-- 🎮 No meu tempo vago gosto de jogar video game, ler quadrinhos e livros
+- 🌱 Atualmente estou focado em desenvolver minhas hard skills na intenção de crescer na minha carreira como Desenvolvedor
 
 <div align="center">
   <a href="https://github.com/leandroaugust0">
